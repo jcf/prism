@@ -1,10 +1,10 @@
-# [Prism](http://prismjs.com/)
-
 ## What's in this fork?
 
 To make it easier to install I've added a master branch, and a tag.
 
 ---
+
+# [Prism](http://prismjs.com/)
 
 Prism is a lightweight, robust, elegant syntax highlighting library. It's a spin-off project from [Dabblet](http://dabblet.com/).
 
